@@ -1,4 +1,4 @@
-# DatabaseSchemaBuilderInC-
+# DatabaseSchemaBuilderInC++
 
 SimpleDB Schema Builder is a console-based C++ Object-Oriented Programming final project. It lets a user create, view, save, and import a simple database schema.
 

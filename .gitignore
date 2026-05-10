@@ -1,0 +1,28 @@
+# CLion and CMake build output
+cmake-build-*/
+CMakeFiles/
+.cmake/
+Testing/
+CMakeCache.txt
+build.ninja
+compile_commands.json
+
+# Compiled programs and object files
+SimpleDBSchemaBuilder
+SimpleDBSchemaBuilder.exe
+*.o
+*.obj
+*.out
+*.exe
+
+# Program output
+schema.txt
+
+# Editor/system files
+.DS_Store
+.idea/
+
+# Large presentation/recording files are not needed for the source repo
+*.mp4
+*.mov
+*.pptx
